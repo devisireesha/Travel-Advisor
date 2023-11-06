@@ -1,4 +1,4 @@
-# Welcome to travelAdvisor
+# Travel Advisor Website Using API
 
 A ReactJS TripAdvisor Clone Web App made with the RapidAPI's TravelAdvisor API and Google Maps API
 
