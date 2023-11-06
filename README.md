@@ -2,13 +2,6 @@
 
 A ReactJS TripAdvisor Clone Web App made with the RapidAPI's TravelAdvisor API and Google Maps API
 
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/babblebey" target="_blank">
-    <img alt="Twitter: babblebey" src="https://img.shields.io/twitter/follow/babblebey.svg?style=social" />
-  </a>
-</p>
-
 ## Install
 Run the Command to Install all dependencies.
 ```sh
